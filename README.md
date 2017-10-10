@@ -23,4 +23,6 @@ Ahhhhhhhhhhhhhhhhhhh CAOOOOOOS
 >>>>>>> 0bc34b93cd40d87e03edd61bb802994eacbd5b22
 
 
-H de Homer
+H de Homer <--- Y la J?
+
+Dejad de guarrerar cosas!
