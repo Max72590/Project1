@@ -1,4 +1,4 @@
-# Project1
+# Project1-De todos
 TestProjectForLearningGithub
 
 ## Subtitle
@@ -16,4 +16,8 @@ TODO: Make this readme look good.
 3. More things
 4. Enough things
 
+<<<<<<< HEAD
 Ahhhhhhhhhhhhhhhhhhh CAOOOOOOS
+=======
+// XDDDDD
+>>>>>>> 0bc34b93cd40d87e03edd61bb802994eacbd5b22
