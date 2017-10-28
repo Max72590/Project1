@@ -17,20 +17,3 @@ TODO: Make this readme look good.
 4. Enough things
 
 ## Warning!
-
->The following material has been written possibly
-
->by people suffering from LSD alucinations, you have
-
->been warned
-
-<<<<<<< HEAD
-Ahhhhhhhhhhhhhhhhhhh CAOOOOOOS
-=======
-// XDDDDD
->>>>>>> 0bc34b93cd40d87e03edd61bb802994eacbd5b22
-
-
-H de Homer <--- Y la J?
-
-Dejad de guarrerar cosas!
